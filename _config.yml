@@ -1,8 +1,8 @@
 # Site settings
 title: 千里之行，始于足下
-SEOTitle: 你的博客 | Your Blog
+SEOTitle: 千里之行，始于足下 | Github Pages
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: cvlinus@gmail.com
 description: ""
 keyword: ""
 url: "http://vwolf.xyz"              # your host, for absolute URL
@@ -52,7 +52,7 @@ kramdown:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: ee99f4e9367faa1e30ea8d0cbb945ad3
+#ba_track_id: ee99f4e9367faa1e30ea8d0cbb945ad3
 # Google Analytics
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 #ga_domain: huangxuan.me
